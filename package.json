@@ -1,0 +1,35 @@
+{
+  "name": "react-bem-mixin",
+  "version": "0.0.1",
+  "description": "A React.js mixin for generating BEM class names",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --compilers jsx:babel/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maur8ino/react-bem-mixin.git"
+  },
+  "keywords": [
+    "bem",
+    "react",
+    "reactjs",
+    "css",
+    "classes"
+  ],
+  "author": "Mauro Verrocchio <mauroverrocchio@gmail.com> (https://github.com/maur8ino)",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/maur8ino/react-bem-mixin/issues"
+  },
+  "homepage": "https://github.com/maur8ino/react-bem-mixin",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^5.5.4",
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5",
+    "react-tools": "^0.13.3"
+  }
+}
