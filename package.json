@@ -29,6 +29,7 @@
   "devDependencies": {
     "babel": "^5.5.4",
     "chai": "^3.0.0",
+    "jsdom": "^5.4.3",
     "mocha": "^2.2.5",
     "react-tools": "^0.13.3"
   }
