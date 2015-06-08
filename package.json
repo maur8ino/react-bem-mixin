@@ -23,7 +23,7 @@
     "url": "https://github.com/maur8ino/react-bem-mixin/issues"
   },
   "homepage": "https://github.com/maur8ino/react-bem-mixin",
-  "dependencies": {
+  "peerDependencies": {
     "react": "^0.13.3"
   },
   "devDependencies": {
